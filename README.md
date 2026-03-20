@@ -1,2 +1,3 @@
-# hyper-analytics-dashboard-298c
-Automated issue comment bot repository
+# Hyper Analytics Dashboard 298C
+
+Automated issue comment bot repository.
